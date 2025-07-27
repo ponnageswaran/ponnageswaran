@@ -31,16 +31,6 @@ With **9+ years of experience** in IT, I specialize in combining **automation, a
 - **Automation Tester (Information Dynamics):** Reduced testing time by 30% with robust automation frameworks.  
 
 ---
-
-## 🛠 **Skill Set**  
-**Languages & Tools:**  
-- **Automation:** Selenium, TestNG, JUnit, Postman, Rest Assured  
-- **BI & Analytics:** Power BI, DAX, Power Query, SQL  
-- **Web Tech:** HTML, CSS, JavaScript, React (basic)  
-- **CI/CD:** Jenkins, GitHub Actions  
-- **Databases:** SQL Server, MySQL  
-
----
 Tech Stack – Power BI Developer
 ----
 ```mermaid
@@ -73,6 +63,17 @@ mindmap
       Workspaces
       Row Level Security (RLS)
 ```
+
+
+## 🛠 **Skill Set**  
+**Languages & Tools:**  
+- **Automation:** Selenium, TestNG, JUnit, Postman, Rest Assured  
+- **BI & Analytics:** Power BI, DAX, Power Query, SQL  
+- **Web Tech:** HTML, CSS, JavaScript, React (basic)  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Databases:** SQL Server, MySQL  
+
+---
 
 Tech Stack – Software Testing
 ----
