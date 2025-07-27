@@ -41,6 +41,71 @@ With **9+ years of experience** in IT, I specialize in combining **automation, a
 - **Databases:** SQL Server, MySQL  
 
 ---
+Tech Stack – Power BI Developer
+----
+mindmap
+  root((Power BI Developer))
+    Data Visualization
+      Dashboards
+      Reports
+      Interactive Charts
+    Data Modeling
+      Star Schema
+      Snowflake Schema
+    DAX
+      Measures
+      Calculated Columns
+      Time Intelligence
+    Power Query
+      Data Cleaning
+      M Language
+    Data Sources
+      SQL Server
+      Excel
+      REST APIs
+    Performance Optimization
+      Query Folding
+      Data Refresh
+      Incremental Load
+    Collaboration
+      Power BI Service
+      Workspaces
+      Row Level Security (RLS)
+
+
+Tech Stack – Software Testing
+----
+mindmap
+  root((Software Test Engineer))
+    Manual Testing
+      STLC
+      SDLC
+      Agile Methodology
+    Automation Testing
+      Selenium WebDriver
+        Java
+        TestNG
+        Maven
+        POM Framework
+        JUnit
+      Appium
+        Android
+        iOS
+    API Testing
+      Postman
+      REST Assured
+    CI/CD
+      Jenkins
+      GitHub
+    SQL
+      Data Validation
+      Joins
+      Queries
+    Mobile Testing
+      Android Apps
+      iOS Apps
+      Real Device & Emulator
+
 
 ## 💬 **Quote I Live By**  
 > **"Innovation isn’t luck, it’s the courage to solve problems differently — and I build for it."**
