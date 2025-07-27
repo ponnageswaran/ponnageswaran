@@ -1,10 +1,6 @@
-Pon Nageswaran N
------------------
-🌟 Founder of Vikoshiya Technologies | Automation & QA Specialist | Power BI Developer | Web App Solutions | Data Analytics 🌟
-
 # 👋 Hi, I'm Pon Nageswaran N  
 
-**Founder & Tech Innovator | Power BI Developer | Automation Testing Expert | Web App Developer**  
+🌟 ** Founder & Tech Innovator | Power BI Developer | Automation Testing Expert | Web App Solutions | Data Analytics ** 🌟
 
 I am the **Founder of Vikoshiya Technologies Pvt Ltd**, a service-based company delivering **Web App Development, QA Automation, and Data-Driven Business Intelligence Solutions**.  
 With **9+ years of experience** in IT, I specialize in combining **automation, analytics, and application development** to build reliable, scalable, and high-quality solutions.
