@@ -48,7 +48,7 @@ With **9+ years of experience** in IT, I specialize in combining **automation, a
 ---
 
 ## 📫 **Connect with Me**  
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/pon-nageswaran-n-a63349a0/)]  
 - **Portfolio Website:** [If available]  
 - **GitHub:** [Your GitHub profile link]  
 
