@@ -1,63 +1,59 @@
 Pon Nageswaran N
 -----------------
+🌟 Founder of Vikoshiya Technologies | Automation & QA Specialist | Power BI Developer | Web App Solutions | Data Analytics 🌟
 
-**Preview before commit:** use <https://mermaid.live> or VS Code + “Markdown Preview Mermaid Support” extension.
+# 👋 Hi, I'm Pon Nageswaran N  
 
----
+**Founder & Tech Innovator | Power BI Developer | Automation Testing Expert | Web App Developer**  
 
-## 3) A **ready-to-copy README.md** (personalized for you)
-
-> Replace placeholders like `<your-username>`, email, and links.
-
-```markdown
-<h1 align="center">Hi, I'm Iswarya 👋</h1>
-<p align="center">
-Founder @ <strong>Vikoshiya Technologies</strong> • 9+ yrs in BI, Power BI, QA Automation & Web App Development
-</p>
+I am the **Founder of Vikoshiya Technologies Pvt Ltd**, a service-based company delivering **Web App Development, QA Automation, and Data-Driven Business Intelligence Solutions**.  
+With **9+ years of experience** in IT, I specialize in combining **automation, analytics, and application development** to build reliable, scalable, and high-quality solutions.
 
 ---
 
-## 🚀 About Me
-- 🧠 **Results-driven IT professional** with 9+ years across **Business Intelligence, QA Automation, Web Application Development, and Data Analytics**
-- 🏗️ **Founder of Vikoshiya Technologies** (service-based: Web App Development & QA Services)
-- 📊 **Power BI Module Lead** experience — built 100+ dashboards, data models, and DAX measures for enterprise clients
-- 🤖 Automation-first mindset: scalable test frameworks, faster release cycles, and performance improvements
-- 🧭 I care about **strategy, speed, and impact** — not hype
+## 🔥 **What I Do**  
+- **📊 Power BI & Business Intelligence**  
+  - Advanced **DAX measures**, **data modeling**, and **100+ custom dashboards** for enterprise clients.  
+  - Optimizing performance and ensuring actionable insights through powerful visualization.  
+
+- **🧪 Automation & Quality Assurance**  
+  - **End-to-End Testing** for Web & Mobile Apps.  
+  - **Automation Frameworks (Selenium, POM, TestNG, CI/CD pipelines).**  
+  - **API Testing & Validation** using Postman and REST Assured.  
+  - SQL-based **Backend Validation** for accurate data integrity.  
+
+- **🌐 Web App Development**  
+  - Scalable and secure web application solutions tailored for client needs.  
+  - Integration of QA processes and analytics dashboards into modern applications.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-**Business Intelligence:**  
-`Power BI` • `DAX` • `Power Query` • `Data Modeling` • `SQL`
-
-**QA & Automation:**  
-`Selenium` • `Playwright` • `JUnit/TestNG` • `Postman` • `JMeter`
-
-**Web / Backend:**  
-`JavaScript` • `TypeScript` • `React` • `Node.js` • `Express` • `REST APIs`
-
-**Data / Cloud:**  
-`SQL Server` • `Azure` • `ETL/ELT`
-
-**Other:**  
-`Git` • `CI/CD` • `Docker` • `Agile`
-
-> (Optional) Add Shields.io badges if you want it more visual.
+## 🚀 **Career Highlights**  
+- **Founder, Vikoshiya Technologies (2024–Present):** Leading a hybrid tech team focusing on **Web App Development, QA, and BI services.**  
+- **Module Lead – Power BI (Trigent Software Inc):** Delivered strategic dashboards and mentored BI teams.  
+- **Power BI Developer (TCS):** Built 100+ dashboards, transforming raw data into meaningful insights.  
+- **Automation Tester (Information Dynamics):** Reduced testing time by 30% with robust automation frameworks.  
 
 ---
 
-## 🧭 Career Timeline (Mermaid)
+## 🛠 **Skill Set**  
+**Languages & Tools:**  
+- **Automation:** Selenium, TestNG, JUnit, Postman, Rest Assured  
+- **BI & Analytics:** Power BI, DAX, Power Query, SQL  
+- **Web Tech:** HTML, CSS, JavaScript, React (basic)  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Databases:** SQL Server, MySQL  
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM
-    title Career Timeline
-    section Automation Testing
-    Information Dynamics :active, 2016-01, 2021-03
-    section Power BI Developer
-    TCS : 2021-04, 2023-12
-    section Power BI Module Lead
-    Trigent Software Inc : 2024-01, 2024-12
-    section Founder / Web & QA Services
-    Vikoshiya Technologies Pvt Ltd : 2025-01, 2025-12
+---
+
+## 💬 **Quote I Live By**  
+> **"Innovation isn’t luck, it’s the courage to solve problems differently — and I build for it."**
+
+---
+
+## 📫 **Connect with Me**  
+- **LinkedIn:** [Your LinkedIn URL]  
+- **Portfolio Website:** [If available]  
+- **GitHub:** [Your GitHub profile link]  
+
+---
