@@ -40,29 +40,24 @@ mindmap
       Dashboards
       Reports
       Interactive Charts
-
-   Data Modeling
+    Data Modeling
       Star Schema
       Snowflake Schema
-   DAX
+    DAX
       Measures
       Calculated Columns
       Time Intelligence
-
-Power Query
+    Power Query
       Data Cleaning
       M Language
-
     Data Sources
       SQL Server
       Excel
       REST APIs
-
     Performance Optimization
       Query Folding
       Data Refresh
       Incremental Load
-
     Collaboration
       Power BI Service
       Workspaces
