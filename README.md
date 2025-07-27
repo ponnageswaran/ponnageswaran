@@ -36,7 +36,7 @@ Tech Stack – Power BI Developer
 ```mermaid
 mindmap
   root((Power BI Developer))
-   Data Visualization
+    Data Visualization
       Dashboards
       Reports
       Interactive Charts
