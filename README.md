@@ -48,7 +48,7 @@ With **9+ years of experience** in IT, I specialize in combining **automation, a
 ---
 
 ## 📫 **Connect with Me**  
-- **LinkedIn:** [[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pon-nageswaran-n-a63349a0/)]  
+- [[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pon-nageswaran-n-a63349a0/)]  
 - **Portfolio Website:** [If available]  
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]  
 ---
