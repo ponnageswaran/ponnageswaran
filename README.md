@@ -43,6 +43,7 @@ With **9+ years of experience** in IT, I specialize in combining **automation, a
 ---
 Tech Stack – Power BI Developer
 ----
+```mermaid
 mindmap
   root((Power BI Developer))
     Data Visualization
@@ -71,10 +72,11 @@ mindmap
       Power BI Service
       Workspaces
       Row Level Security (RLS)
-
+```
 
 Tech Stack – Software Testing
 ----
+```mermaid
 mindmap
   root((Software Test Engineer))
     Manual Testing
@@ -105,7 +107,7 @@ mindmap
       Android Apps
       iOS Apps
       Real Device & Emulator
-
+```
 
 ## 💬 **Quote I Live By**  
 > **"Innovation isn’t luck, it’s the courage to solve problems differently — and I build for it."**
